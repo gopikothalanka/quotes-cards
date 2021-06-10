@@ -1,5 +1,3 @@
-import Quote from "./Quote";
-
 const QuotesData=[
   {
     id:"1",

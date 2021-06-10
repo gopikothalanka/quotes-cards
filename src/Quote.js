@@ -2,8 +2,6 @@ import React from 'react'
 import './Quote.css'
 function Quote (props) {
   console.log(props);
-
-  const num=[1,2,3,4,5,6,7,8,9,10]
   let styles={
     background:`url(${props.imgUrl}) no-repeat` ,
   }
